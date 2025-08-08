@@ -1,6 +1,6 @@
 # Open Source Keyboard Firmware Repository
 
-Welcome to the official firmware repository for the open source keyboards sold by [Your Brand Name]. This repository contains firmware, configuration files, and additional resources for each keyboard we support.
+Welcome to the official files repository for the open source keyboards sold by TurkeyBoards. This repository contains the firmware, configuration files, STL 3D Printable Case files, and any additional resources for each keyboard we support.
 
 ## Contents
 
@@ -31,11 +31,10 @@ Precompiled `.uf2` firmware files and source code can be found in the appropriat
 
 Each folder typically contains:
 
-- `firmware.uf2` – Precompiled firmware ready to flash
-- `keymap.json` – Keymap file (for use with Vial)
+- `case` – STL file to 3D print your own keyboad case
+- `firmware` – Precompiled firmware ready to flash in .uf2 format
+- `Layout` – Optional ZMK/QMK/Vial build files and metadata
 - `readme.md` – Notes specific to that keyboard’s configuration and usage
-- Optional ZMK/QMK/Vial build files and metadata
-
 ---
 
 ## Usage Instructions
