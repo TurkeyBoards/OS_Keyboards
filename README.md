@@ -5,6 +5,7 @@ Welcome to the official files repository for the open source keyboards sold by T
 ## Contents
 
 - [Supported Keyboards](#supported-keyboards)
+- [Case](#case)
 - [Firmware](#firmware)
 - [Usage Instructions](#usage-instructions)
 - [License](#license)
@@ -21,6 +22,12 @@ This repo includes files and firmware for the following open-source keyboards ea
 - [**Sofle Choc**]("./sofle_choc/")
 
 More keyboards may be added over time.
+
+---
+
+## Case
+We have the STL files available for you to print your own keyboard case. All our cases are designed for use with Heat press insert threads. If you need some they are easy to purchase off of:
+- Amazon - https://amzn.to/4ov1lON
 
 ---
 
