@@ -27,7 +27,8 @@ More keyboards may be added over time.
 
 ## Case
 We have the STL files available for you to print your own keyboard case. All our cases are designed for use with Heat press insert threads. If you need some they are easy to purchase off of:
-- Amazon - https://amzn.to/4ov1lON
+- Amazon: M2x3 Heat Inserts- https://amzn.to/4ov1lON
+- Amazon: M2x5 Screws - https://amzn.to/41DkEeS
 
 ---
 
